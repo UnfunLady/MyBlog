@@ -1,7 +1,7 @@
 ---
 title: "[易企通]我的React项目"
 catalog: true
-date: 2023-03-05 17:28:18
+date: 2023-03-01 11:08:38
 subtitle: "实习之余学习的作品."
 header-img: "react.jpg"
 tags:
@@ -10,9 +10,8 @@ catagories:
 - React
 ---
 ## 编码语言
-> 该项目是后台项目 主要使用的编程语言是 [React.js](https://github.com/facebook/react), 小部分组件库使用了 [Ant-design](https://ant.design/components/overview-cn) 开发 
+> 该项目是用`React重构Vue3`的后台项目 主要使用的编程语言是 [React.js](https://github.com/facebook/react), 小部分组件库使用了 [Ant-design](https://ant.design/components/overview-cn) 开发 
 ---
-
 
 ## 项目介绍
 ---

@@ -1,14 +1,18 @@
 ---
 title: "vue3虚拟滚动练习"
 catalog: true
-date: 2022-09-03 17:28:18
+date: 2022-09-03 10:22:12
 subtitle: "学习经验"
 header-img: 
 tags:
 - Vue3
 catagories:
-- Vue
+- vue3
 ---
+
+### 笔记描述
+> 一般用于多数据 如多图片加载使用
+
 ### 详细代码
 ```
 <template>

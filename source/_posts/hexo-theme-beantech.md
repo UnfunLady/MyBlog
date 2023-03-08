@@ -1,7 +1,7 @@
 ---
 title: "[快日报]我的uni-app项目"
 catalog: true
-date: 2023-03-06 17:28:18
+date: 2023-03-01 14:22:12
 subtitle: "实习之余学习的作品."
 header-img: "redian.jpg"
 tags:
