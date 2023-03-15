@@ -11,7 +11,7 @@ catagories:
 ---
 
 ### 笔记描述
-> 公司里的前辈写的自定义指令 代码 拷贝来参考一下
+> 浏览器输入url到显示的过程会发生什么
 
 ### 详细描述
 > 首先检查url格式如果不是ip地址则开启dns域名解析  
@@ -57,7 +57,7 @@ catagories:
   最后进入`Timewait` 服务器收到后`进入 close` 服务器关闭 `随后客户端等待2MSL后进入close`
     2msl是数据包来回最大时间  确保没有收到数据后 断开
 
-    <img src="../httpbj1/four.jpg"/>
+   <img src="../httpbj1/four.jpg"/>
 ---
 
 
