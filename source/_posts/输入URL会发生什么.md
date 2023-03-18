@@ -24,7 +24,7 @@ catagories:
  客户端连接已建立 `syn-send变成established`
   服务器端收到ack请求确认后 认为建立完成 `syn-rcvd变成established `
 
-<img src="../httpbj1/three.jpg"/>
+<img src="../输入URL会发生什么/three.jpg"/>
 
 
 > ①  SYN(synchronous建立联机)；
@@ -57,7 +57,7 @@ catagories:
   最后进入`Timewait` 服务器收到后`进入 close` 服务器关闭 `随后客户端等待2MSL后进入close`
     2msl是数据包来回最大时间  确保没有收到数据后 断开
 
-   <img src="../httpbj1/four.jpg"/>
+   <img src="../输入URL会发生什么/four.jpg"/>
 ---
 
 

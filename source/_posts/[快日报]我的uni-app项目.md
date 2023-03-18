@@ -52,14 +52,14 @@ npm install
 
 ## 项目部分截图
 <div style="display:flex;width:100%;flex-wrap:wrap">
-<img src="../hexo-theme-beantech/1.jpg"  width="300px"/>
-<img src="../hexo-theme-beantech/2.jpg"  width="300px"/>
-<img src="../hexo-theme-beantech/3.png"  width="300px"/>
-<img src="../hexo-theme-beantech/4.jpg"  width="300px"/>
-<img src="../hexo-theme-beantech/5.jpg"  width="300px"/>
-<img src="../hexo-theme-beantech/6.jpg"  width="300px"/>
-<img src="../hexo-theme-beantech/7.jpg"  width="300px"/>
-<img src="../hexo-theme-beantech/8.jpg"  width="300px"/>
+<img src="../[快日报]我的uni-app项目/1.jpg"  width="300px"/>
+<img src="../[快日报]我的uni-app项目/2.jpg"  width="300px"/>
+<img src="../[快日报]我的uni-app项目/3.png"  width="300px"/>
+<img src="../[快日报]我的uni-app项目/4.jpg"  width="300px"/>
+<img src="../[快日报]我的uni-app项目/5.jpg"  width="300px"/>
+<img src="../[快日报]我的uni-app项目/6.jpg"  width="300px"/>
+<img src="../[快日报]我的uni-app项目/7.jpg"  width="300px"/>
+<img src="../[快日报]我的uni-app项目/8.jpg"  width="300px"/>
 
 </div>
 

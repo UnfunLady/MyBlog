@@ -46,8 +46,8 @@ git clone https://github.com/UnfunLady/reactApp_backend.git ./backend
 
 ## 项目部分截图
 <div style="display:flex;width:100%;flex-wrap:wrap">
-<img src="../reactApp_backEnd/spring1.jpg"  />
-<img src="../reactApp_backEnd/spring2.jpg"  />
+<img src="../我的SpringBoot项目/spring1.jpg"  />
+<img src="../我的SpringBoot项目/spring2.jpg"  />
 
 </div>
 

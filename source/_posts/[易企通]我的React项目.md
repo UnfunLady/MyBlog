@@ -56,11 +56,11 @@ git clone https://github.com/UnfunLady/reactApp_backend.git ./backend
 
 ## 项目部分截图
 <div style="display:flex;width:100%;flex-wrap:wrap">
-<img src="../reactApp/one.jpg"  />
-<img src="../reactApp/two.jpg"  />
-<img src="../reactApp/three.jpg"  />
-<img src="../reactApp/three-1.jpg"  />
-<img src="../reactApp/four.jpg"  />
+<img src="../[易企通]我的React项目/one.jpg"  />
+<img src="../[易企通]我的React项目/two.jpg"  />
+<img src="../[易企通]我的React项目/three.jpg"  />
+<img src="../[易企通]我的React项目/three-1.jpg"  />
+<img src="../[易企通]我的React项目/four.jpg"  />
 </div>
 
 

@@ -58,10 +58,10 @@ npm start运行nodejs后台
 
 ## 项目部分截图
 <div style="display:flex;width:100%;flex-wrap:wrap">
-<img src="../vue3/vue1.jpg"  />
-<img src="../vue3/vue2.jpg"  />
-<img src="../vue3/vue3.jpg"  />
-<img src="../vue3/vue4.jpg"  />
+<img src="../Vue3项目/vue1.jpg"  />
+<img src="../Vue3项目/vue2.jpg"  />
+<img src="../Vue3项目/vue3.jpg"  />
+<img src="../Vue3项目/vue4.jpg"  />
 </div>
 
 
