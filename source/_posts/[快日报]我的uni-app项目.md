@@ -18,6 +18,7 @@ catagories:
 ## 项目介绍
 ---
 
+
 使用 uniapp 开发的新闻类 app 是以数据显示核心业务为用户提供最新热点动态，让用户能及时了解世界行情。该项目前端由0到1由我独立完成
 >技术栈: Vue.js、Vuex、Hbuilder X、uni-app、Echarts、uview
 
