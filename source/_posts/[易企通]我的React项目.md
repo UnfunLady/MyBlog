@@ -36,7 +36,7 @@ npm install or npm i
 ```
 ```
 git clone https://github.com/UnfunLady/reactApp_backend.git ./backend
-打开项目等待依赖环境下载完毕 运行springboot项目 注意：先修改mybatisplus的配置
+打开项目等待依赖环境下载完毕 运行springboot项目 注意：先修改mybatisplus的配置  
 修改数据库名 端口号等与你的环境一致即可
 ```
 
