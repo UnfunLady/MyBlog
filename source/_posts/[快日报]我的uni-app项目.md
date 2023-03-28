@@ -11,7 +11,7 @@ catagories:
 - uniapp
 ---
 ## 编码语言
-> 该项目是新闻类App项目 主要使用的编程语言是 [Vue.js](https://github.com/vuejs/vue.git), 小部分组件库使用了 [uView](https://www.uviewui.com/components/intro.html) 开发 简化了部分操作 但大部分还是用View+Flex布局实现的
+> 该项目是新闻类App项目 主要使用的编程语言是  [Vue.js](https://github.com/vuejs/vue.git), 小部分组件库使用了 [uView](https://www.uviewui.com/components/intro.html) 开发 简化了部分操作 但大部分还是用View+Flex布局实现的
 ---
 
 
