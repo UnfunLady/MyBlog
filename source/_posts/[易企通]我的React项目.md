@@ -19,7 +19,7 @@ catagories:
 后端采用`SpringBoot`框架实现后端接口，简化平时操作流程，可以完成绝大部分管理需求。
 >技术栈: React.redux、Echarts、pub-sub、Antd、Hooks、Springboot、Mysql
 
->职责描述:
+>职责描述:  
 1.使用SpringBoot完成后端，使用JWT实现以及自定义注解拦截器实现登录Token验证用户信息
 2.使用Antd组件库从0到1搭建页面布局，使用React、JSX以及TypeScript实现UI页面
 3.使用redux对登录信息持久化存储，pub-sub进行组件通信，BraftEditor富文本公告及图片上传
