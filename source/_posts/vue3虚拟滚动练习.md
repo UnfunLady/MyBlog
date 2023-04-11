@@ -100,8 +100,6 @@ catagories:
       };
       // wait时间后执行
       time = setTimeout(fn, wait);
-
-
     }
   };
 
