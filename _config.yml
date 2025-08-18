@@ -61,13 +61,12 @@ ga_domain: yoursite
 
 # Sidebar settings
 sidebar: true                       # whether or not using Sidebar.
-sidebar-about-description: "君子以自强不息"
-sidebar-avatar: img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: ""
+sidebar-avatar: img/avatar1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - featured-tags
 - short-about
 - recent-posts
-- happy
 # - friends-blog
 # - archive
 # - category
@@ -82,7 +81,7 @@ show_count: true
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 0             # A tag will be featured if the size of it is more than this condition value
 
-Happy: true
+Happy: false
 
 # Friends
 # friends: [
